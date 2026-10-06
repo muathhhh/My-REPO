@@ -1,0 +1,4 @@
+My name is Ahmed.
+I am a student.
+I am interested in programming and technology.
+I want to improve my Git and GitHub skills.
